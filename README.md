@@ -46,7 +46,7 @@ The main objective of this dashboard is to:
 
 ### Department Details
 
-![Department Details](2-department-details.png)
+![Department Details](02-department-details.png)
 
 
 ## 📁 Project Files
