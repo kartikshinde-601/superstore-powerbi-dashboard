@@ -40,21 +40,21 @@ The main objective of this dashboard is to:
 
 ## 📸 Dashboard Preview
 
-### Superstore Dashboard
+### 1️⃣ Superstore Dashboard
 
 ![Superstore Dashboard](01-superstore-dashboard.png)
 
-### Department Details
+### 2️⃣ Department Details
 
 ![Department Details](02-department-details.png)
-
 
 ## 📁 Project Files
 
 - `Superstore data dashboard.pbix` – Power BI dashboard file
-- `superstore-dashboard.png` – Dashboard screenshot
+- `01-superstore-dashboard.png` – Superstore Dashboard screenshot
+- `02-department-details.png` – Department Details screenshot
 - `README.md` – Project documentation
-
+- 
 ## 💡 Key Insights
 
 The dashboard helps identify:
