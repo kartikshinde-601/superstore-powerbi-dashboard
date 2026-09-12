@@ -41,7 +41,10 @@ The main objective of this dashboard is to:
 ## 📸 Dashboard Preview
 
 ### Superstore Dashboard
+![Superstore Dashboard](superstore-dashboard.png)
 
+### Department details
+![Superstore Dashboard](department-details.png)
 
 
 
