@@ -43,6 +43,8 @@ The main objective of this dashboard is to:
 ### Superstore Dashboard
 
 ![Superstore Dashboard](superstore-dashboard.png)
+![Superstore Dashboard](superstore-dashboard.png(2))
+
 
 ## 📁 Project Files
 
